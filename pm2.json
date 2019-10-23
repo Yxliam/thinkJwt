@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "shopBack",
+    "script": "production.js",
+    "cwd": "/Users/yxl/project/myProject/shopBack",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
